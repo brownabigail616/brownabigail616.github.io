@@ -1,3 +1,3 @@
-yisigame.github.io
+ysgame1.github.io
 
-yisi Technology Co., Ltd.
+ysgame1 Technology Co., Ltd.
