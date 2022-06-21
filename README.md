@@ -1,3 +1,3 @@
-ysgame1.github.io
+yaosong.github.io
 
-ysgame1 Technology Co., Ltd.
+yaosong Technology Co., Ltd.
